@@ -1,0 +1,14 @@
+.navbar{
+    width: 80%;
+    margin: 1em auto;
+    display: flex;
+    justify-content: center;
+    gap: 5em;
+}
+
+.navbar__lst{
+    list-style: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #fff;
+}
